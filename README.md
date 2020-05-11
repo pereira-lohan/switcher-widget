@@ -1,10 +1,8 @@
-# Switcher Widget
+## Switcher Widget
 
 App exemplo de um Switcher Customizado.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
+### Getting Started
 
 A few resources to get you started if this is your first Flutter project:
 
